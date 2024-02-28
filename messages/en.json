@@ -1,0 +1,50 @@
+{
+  "IndexPage": {
+    "title": "SmartDev Employees Management",
+    "description": "Welcome <code>SmartDev</code> Employees Management"
+  },
+  "AllEmployeesPage": {
+    "title": "All Employees",
+    "description": "All Employees"
+  },
+  "DetailEmployeePage": {
+    "title": "Detail Employee",
+    "description": "Detail Employee"
+  },
+  "EditEmployeePage": {
+    "title": "Updated Employee",
+    "description": "Updated Employee"
+  },
+  "LocaleLayout": {
+    "title": "SmartDev Employees Management"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, vn {🇻🇳Vietnamese} en {🇺🇸 English} other {Unbekannt}}"
+  },
+
+  "LocaleTable": {
+    "name": "Employee Name",
+    "age": "Employee Age",
+    "salary": "Employee Salary",
+    "image": "Profile Image",
+    "create": "Create New Employee",
+    "update": "Update New Employee",
+    "delete": "Delete Employee"
+  },
+
+  "LocaleButon": {
+    "edit": "Update Employee",
+    "deleteBtn": "Delete Employee",
+    "deleteConfirm": "Are you sure you want to delete this employee? This action cannot be undone",
+    "deleteConfirmLable": "Confirm Deletetion",
+    "cancel": "Cancel"
+  },
+
+  "Navigation": {
+    "home": "DashBoard",
+    "allEmployees": "All Employees",
+    "detailEmployee": "Employee Detail",
+    "createEmployee": "Updated Employee"
+  }
+}

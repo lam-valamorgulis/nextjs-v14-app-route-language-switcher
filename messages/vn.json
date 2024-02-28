@@ -1,0 +1,50 @@
+{
+  "IndexPage": {
+    "title": "SmartDev Tổng Quan",
+    "description": "Chào mừng đến với <code>SmartDev</code> quản lí nhân sự"
+  },
+  "AllEmployeesPage": {
+    "title": "Toàn bộ nhân viên",
+    "description": "Toàn bộ nhân viên"
+  },
+  "DetailEmployeePage": {
+    "title": "Thông tin nhân viên",
+    "description": "Thông tin nhân viên"
+  },
+  "EditEmployeePage": {
+    "title": "Cập nhật thông tin nhân viên",
+    "description": "Cập nhật thông tin nhân viên"
+  },
+  "LocaleLayout": {
+    "title": "SmartDev Quản lí nhân sự"
+  },
+  "LocaleSwitcher": {
+    "label": "Chọn ngôn ngữ",
+    "locale": "{locale, select, vn {🇻🇳Tiếng Việt} en {🇺🇸 Tiếng Anh} other {Unbekannt}}"
+  },
+
+  "LocaleTable": {
+    "name": "Tên Nhân viên",
+    "age": "Độ Tuổi",
+    "salary": "Mức Lương",
+    "image": "Hình Đại Diện",
+    "create": "Tạo Nhân Viên",
+    "update": "Cập nhật Nhân Viên",
+    "delete": "Xoá Nhân Viên"
+  },
+
+  "LocaleButon": {
+    "edit": "Cập nhật Nhân Viên",
+    "deleteBtn": "Xoá nhân viên",
+    "deleteConfirm": "Bạn có chắc là muốn xoá thông tin nhân viên này ?",
+    "deleteConfirmLable": "Xác nhận xoá thông tin",
+    "cancel": "Thoát"
+  },
+
+  "Navigation": {
+    "home": "Tổng quan",
+    "allEmployees": "Toàn bộ nhân viên",
+    "detailEmployee": "Chi tiết nhân viên",
+    "createEmployee": "Cập nhật nhân viên"
+  }
+}
