@@ -21,10 +21,10 @@ const NavBar = () => {
           >
             <Link href="/">
               <Image
-                src="/images/smartdev.png"
+                src="/images/logo.jpg"
                 width={150}
                 height={150}
-                alt="SmartDev"
+                alt="github/lam-valamorgulis"
               />
             </Link>
             <NavLinks />
